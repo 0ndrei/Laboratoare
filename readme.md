@@ -1,4 +1,4 @@
-#**Teme de casă + laboaratoare Lungu ANDREI**
+#Teme de casă + laboaratoare Lungu ANDREI
 
 Adăugate:
 1. Laborator nr.2
