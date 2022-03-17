@@ -3,5 +3,6 @@
 Adăugate:
 1. Laborator nr.2
 2. Laborator nr.3
-3. ML_Model (Lungu Andrei)
-4. Scrapping CANAL3_MD
+# Link spre laboratorul nr.3 https://drive.google.com/drive/folders/1wxWsbjlsYkZF1L--XxCvxTn3DeicebXx?usp=sharing
+4. ML_Model (Lungu Andrei)
+5. Scrapping CANAL3_MD
